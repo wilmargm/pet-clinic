@@ -74,4 +74,6 @@ stage("End to End Tests") {
         sh "./ui-tests.sh"
     }
 }
+    }
+}
 
